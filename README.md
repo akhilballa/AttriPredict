@@ -58,21 +58,22 @@ AttriPredict is a machine learning project that aims to forecast whether an empl
 
 ## 📁 Repository Structure
 
-
-```text
-AttriPredict/
-├── data/
-│   ├── train.csv
-│   ├── test.csv
-│   └── sample_submission.csv
-├── notebooks/
-│   └── attripredict_eda_modeling.ipynb
-├── src/
-│   ├── preprocessing.py
-│   ├── modeling.py
-│   └── utils.py
-├── submissions/
-│   └── final_submission.csv
-├── README.md
-└── requirements.txt
 ```
+.
+├── part-1/
+│   ├── data/
+│   │   ├── sample_submission_1.csv
+│   │   ├── test_1.csv
+│   │   └── train_1.csv
+│   └── notebook/
+│       └── projectpart1.ipynb
+├── part-2/
+│   ├── data/
+│   │   ├── sample_submission_2.csv
+│   │   ├── test.csv
+│   │   └── train.csv
+│   └── notebook/
+│       └── projectpart2.ipynb
+└── README.md
+```
+
