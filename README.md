@@ -17,10 +17,10 @@ AttriPredict is a machine learning project that aims to forecast whether an empl
 
 ## Features & Techniques
 
--  **Exploratory Data Analysis (EDA)**  
+- **Exploratory Data Analysis (EDA)**  
   Understand data distribution, correlations, and class balance.
 
--  **Data Preprocessing**  
+- **Data Preprocessing**  
   - Handling missing values  
   - Encoding categorical variables  
   - Scaling numeric features  
@@ -28,13 +28,13 @@ AttriPredict is a machine learning project that aims to forecast whether an empl
 - **Feature Engineering**  
   Derived new features and optimized existing ones.
 
--  **Modeling**  
+- **Modeling**  
   Used classification models covered in Part 1 of the course:
   - Logistic Regression  
   - Decision Tree  
   - Random Forest  
 
--  **Evaluation**  
+- **Evaluation**  
   - Confusion matrix  
   - Precision, Recall, and **F1 Score** (main evaluation metric)
 
