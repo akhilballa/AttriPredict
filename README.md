@@ -1,11 +1,11 @@
-# AttriPredict 🚀  
+# AttriPredict 
 **Predicting Employee Attrition Using Machine Learning**
 
 AttriPredict is a machine learning project that aims to forecast whether an employee will stay with or leave a company based on various organizational and personal factors. This project was developed as part of an academic competition where the goal was to optimize a classifier using the **F1 score** — a metric ideal for handling class imbalance in binary classification.
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 - Build a predictive model to classify employee exit status (Stayed/Left).
 - Understand key features influencing employee retention.
@@ -15,32 +15,32 @@ AttriPredict is a machine learning project that aims to forecast whether an empl
 
 ---
 
-## 🧠 Features & Techniques
+## Features & Techniques
 
-- 📊 **Exploratory Data Analysis (EDA)**  
+-  **Exploratory Data Analysis (EDA)**  
   Understand data distribution, correlations, and class balance.
 
-- 🧹 **Data Preprocessing**  
+-  **Data Preprocessing**  
   - Handling missing values  
   - Encoding categorical variables  
   - Scaling numeric features  
 
-- 🛠️ **Feature Engineering**  
+- **Feature Engineering**  
   Derived new features and optimized existing ones.
 
-- 🧪 **Modeling**  
+-  **Modeling**  
   Used classification models covered in Part 1 of the course:
   - Logistic Regression  
   - Decision Tree  
   - Random Forest  
 
-- 🧪 **Evaluation**  
+-  **Evaluation**  
   - Confusion matrix  
   - Precision, Recall, and **F1 Score** (main evaluation metric)
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 
 | File | Description |
 |------|-------------|
@@ -48,10 +48,10 @@ AttriPredict is a machine learning project that aims to forecast whether an empl
 | `test.csv` | Test data without target label |
 | `sample_submission.csv` | Format for submitting predictions |
 
-### 🔑 Target Column
+###  Target Column
 - `exit_status`: Categorical — `Stayed` or `Left`
 
-### 🏷️ Feature Columns (Examples)
+###  Feature Columns (Examples)
 - `age`, `gender`, `monthly_income`, `job_satisfaction`, `work_life_balance`, `overtime`, `remote_work`, `performance_rating`, etc.
 
 ---
