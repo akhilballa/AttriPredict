@@ -65,15 +65,18 @@ AttriPredict is a machine learning project that aims to forecast whether an empl
 │   │   ├── sample_submission_1.csv
 │   │   ├── test.csv
 │   │   └── train.csv
-│   └── notebook/
-│       └── projectpart1.ipynb
+│   ├── notebook/
+│   │   └── projectpart1.ipynb
+│   └── submission_1.csv
 ├── part-2/
 │   ├── data/
 │   │   ├── sample_submission_2.csv
 │   │   ├── test.csv
 │   │   └── train.csv
-│   └── notebook/
-│       └── projectpart2.ipynb
+│   ├── notebook/
+│   │   └── projectpart2.ipynb
+│   └── submission_2.csv
 └── README.md
+
 ```
 
